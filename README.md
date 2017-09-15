@@ -25,10 +25,10 @@ Hann sé í rétti stærð kemst í tölvunna ef þú ert með lítinn kassa. A�
 
 ### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ---
-1.Reyna að finna vanda málið gæti hjálpa til að tala við eigandann og kíkja á villi skilaboðin
-2.Púnta hjá sér hvað er að gerast þegar þú hveikir á henni og púnta hjá þér hvað þú heldur sé að hanni
-3.Purfaðu allt sem þú hélst að værir að henni og fynna út hvað veldur því sem er að gerast 
-4.Núna býrðu til plan hvernig á að laga hana og finna bestu leiðinna til þess
-5.Brófa hvort allt sem virkaði ekki virkar og þau helstu forrit best er að láta notandat tölvunnar brófa hana út af því hannn notar hana.
-6.Skrifa hjá sér vandamálið og hvernig þú lagaðir hana svo eð þetta gerist við svipaða tölvu í t.d. skóla þá gæti það verið sama bilun.
+1. Reyna að finna vanda málið gæti hjálpa til að tala við eigandann og kíkja á villi skilaboðin
+2. Púnta hjá sér hvað er að gerast þegar þú kveikir á henni og púnta hjá þér hvað þúheldur sé að hanni
+3. Purfaðu allt sem þú hélst að værir að henni og fynna út hvað veldur því sem er að gerast 
+4. Núna býrðu til plan hvernig á að laga hana og finna bestu leiðinna til þess
+5. Brófa hvort allt sem virkaði ekki virkar og þau helstu forrit best er að láta notandat tölvunnar brófa hana út af því hannn notar hana.
+6. Skrifa hjá sér vandamálið og hvernig þú lagaðir hana svo eð þetta gerist við svipaða tölvu í t.d. skóla þá gæti það verið sama bilun.
 
