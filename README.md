@@ -18,3 +18,7 @@ Reyna að halda tölvunni í góðu standi eins og að það sér ekki mikið ri
 ---
 ESD stendur  fyrri "Electrostatic discharge". Þetta er stöðurafmagn sem myndast tildæmis þegar þú nuddar blöðru við hausinn á þér. 
 Stöðurafmagnið skemmir tölvuhlutina léttilega þessvegna er ráðlegt að vera með sérstök armbönd eða antistatic mottu sem minkar líikurnar á stöðurafmagn kemur.
+
+### 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+---
+Hann sé í rétti stærð kemst í tölvunna ef þú ert með lítinn kassa. Að hann sé með nó og mörg watt fyrir alla hlutina í tölvunni. Það eru nóg af snúrum og réttar. Og bassa að inputinn er sama og í landinu sem þú ert í.
