@@ -13,3 +13,8 @@ ROM (read-only memory). Ef þú skrifar einhvað á ROMið þá er ekki hægt a�
 ### 3. Hvað er fyrirbyggjandi viðhald? 
 ---
 Reyna að halda tölvunni í góðu standi eins og að það sér ekki mikið rik þar sem þú setur tölvunna og gerir það sem þú getur til að halda henni í lagi eins og að fá sér vírusvörn.
+
+### 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+---
+ESD stendur  fyrri "Electrostatic discharge". Þetta er stöðurafmagn sem myndast tildæmis þegar þú nuddar blöðru við hausinn á þér. 
+Stöðurafmagnið skemmir tölvuhlutina léttilega þessvegna er ráðlegt að vera með sérstök armbönd eða antistatic mottu sem minkar líikurnar á stöðurafmagn kemur.
