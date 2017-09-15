@@ -35,3 +35,8 @@ Hann sé í rétti stærð kemst í tölvunna ef þú ert með lítinn kassa. A�
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ---
 opinn spurning svarar aðelinn með setningum eiginn orðum. En lokaðar spurningar er svarað með já eða nei.
+
+
+### 8. Hvað eru jaðartæki?
+---
+Eru hlutir fyrir utann tölvunna t.d prentar, Mús eða lyklaborð.
