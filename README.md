@@ -40,3 +40,7 @@ opinn spurning svarar aðelinn með setningum eiginn orðum. En lokaðar spurnin
 ### 8. Hvað eru jaðartæki?
 ---
 Eru hlutir fyrir utann tölvunna t.d prentar, Mús eða lyklaborð.
+
+### 9. Nefndu þrjú dæmi um inntakstæki.
+---
+Það eru tæki sem sendir upplýsingar í tölvuna eins og mús, lyklaborð og myndavél os.frv
