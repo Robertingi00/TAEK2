@@ -51,11 +51,11 @@ Eru hlutir fyrir utann tölvunna t.d prentar, Mús eða lyklaborð.
 Tölvuhlutir | Verð | Söluaðilli
 ---|---|---
 Intel i7 7800X GHz | 58.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?products_id=3346)
-16 GB (2x8 GB) 2400 MHz | 17.900 | Tölvu tækni
-1 TB Seagate Barracuda | 7.900 | Tölvu tækni
-250 GB Samsung 850 EVO | 15.900 | Tölvu tækni
-Corsair Cx750m 750W | 18.750 | Tölvu tækni
-Thermaltake Versa H22 ATX | 11.990 | Tölvutek
-GTX 1070 8 GB | 62.900 | Tölvu tækni
-Gigabyte X299 Aorus Gaming 3 | 54.900 | Ódýrið
+Corsair 16GB kit (2x8GB) DDR4 3200MHz | 20.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?cPath=28_34_166&products_id=3052)
+1 TB Seagate Barracuda | 7.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?cPath=24_39_80&products_id=2002)
+250 GB Samsung 850 EVO | 15.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?products_id=2879)
+Corsair Cx750m 750W | 18.750 | [@tt](https://www.att.is/product/corsair-cx750-aflgjafi750w-hljodlatur)
+Thermaltake Versa H22 ATX | 11.990 | [Tölvutek](https://tolvutek.is/vara/thermaltake-versa-h22-atx-turnkassi-svartur)
+GTX 1070 8 GB | 62.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?products_id=3286)
+Gigabyte X299 Aorus Gaming 3 | 54.900 | [Ódýrið](https://odyrid.is/vara/gigabyte-s2011-x299-aorus-gaming-3-modurbord)
 
