@@ -50,7 +50,7 @@ Eru hlutir fyrir utann tölvunna t.d prentar, Mús eða lyklaborð.
 
 Tölvuhlutir | Verð | Söluaðilli
 ---|---|---
-Intel i7 7800X GHz | 58.900 | Tölvu tækni
+Intel i7 7800X GHz | 58.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?products_id=3346)
 16 GB (2x8 GB) 2400 MHz | 17.900 | Tölvu tækni
 1 TB Seagate Barracuda | 7.900 | Tölvu tækni
 250 GB Samsung 850 EVO | 15.900 | Tölvu tækni
