@@ -60,6 +60,8 @@ GTX 1070 8 GB | 62.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?
 Gigabyte X299 Aorus Gaming 3 | 54.900 | [Ódýrið](https://odyrid.is/vara/gigabyte-s2011-x299-aorus-gaming-3-modurbord)
 
   
-![alt text][logo]
+![logo][log]
 
 [logo]: https://images10.newegg.com/ProductImage/11-133-250-02.jpg "Logo Title Text 2"
+
+[log]: https://images10.newegg.com/NeweggImage/ProductImage/13-145-015-V01.jpg "Móðurbrð"
