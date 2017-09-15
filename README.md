@@ -32,3 +32,6 @@ Hann sé í rétti stærð kemst í tölvunna ef þú ert með lítinn kassa. A�
 5. Brófa hvort allt sem virkaði ekki virkar og þau helstu forrit best er að láta notandat tölvunnar brófa hana út af því hannn notar hana.
 6. Skrifa hjá sér vandamálið og hvernig þú lagaðir hana svo eð þetta gerist við svipaða tölvu í t.d. skóla þá gæti það verið sama bilun.
 
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+---
+opinn spurning svarar aðelinn með setningum eiginn orðum. En lokaðar spurningar er svarað með já eða nei.
