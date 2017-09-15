@@ -59,7 +59,7 @@ Thermaltake Versa H22 ATX | 11.990 | [Tölvutek](https://tolvutek.is/vara/therma
 GTX 1070 8 GB | 62.900 | [Tölvu tækni](http://tolvutaekni.is/product_info.php?products_id=3286)
 Gigabyte X299 Aorus Gaming 3 | 54.900 | [Ódýrið](https://odyrid.is/vara/gigabyte-s2011-x299-aorus-gaming-3-modurbord)
 
-#### ![alt text](https://raw.githubusercontent.com/Robertingi00/TAEK2/master/mynd1.jpg"Tölvukassi")
+#### ![alt text](mynd1.jpg"Tölvukassi")
   
 
 #### ![alt text](https://images10.newegg.com/NeweggImage/ProductImage/13-145-015-V01.jpg "Móðurborð")
