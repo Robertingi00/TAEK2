@@ -44,3 +44,18 @@ Eru hlutir fyrir utann tölvunna t.d prentar, Mús eða lyklaborð.
 ### 9. Nefndu þrjú dæmi um inntakstæki.
 ---
 Það eru tæki sem sendir upplýsingar í tölvuna eins og mús, lyklaborð og myndavél os.frv
+
+### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+---
+
+Tölvuhlutir | Verð | Söluaðilli
+---|---|---
+Intel i7 7800X GHz | 58.900 | Tölvu tækni
+16 GB (2x8 GB) 2400 MHz | 17.900 | Tölvu tækni
+1 TB Seagate Barracuda | 7.900 | Tölvu tækni
+250 GB Samsung 850 EVO | 15.900 | Tölvu tækni
+Corsair Cx750m 750W | 18.750 | Tölvu tækni
+Thermaltake Versa H22 ATX | 11.990 | Tölvutek
+GTX 1070 8 GB | 62.900 | Tölvu tækni
+Gigabyte X299 Aorus Gaming 3 | 54.900 | Ódýrið
+
